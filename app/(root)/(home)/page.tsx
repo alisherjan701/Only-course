@@ -7,3 +7,6 @@ function HomePage() {
 }
 
 export default HomePage
+
+
+{/*ssr server side rendering  */}
