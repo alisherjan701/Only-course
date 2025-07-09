@@ -2,7 +2,7 @@ import { Contact, Home, ListVideo, Rss } from "lucide-react"
 
 export const  navLinks = [
     {route:'',name:'Home',icon:Home},
-    {route:'courses',name:'courses',icon:ListVideo},
+    {route:'courses',name:'Courses',icon:ListVideo},
     {route:'blogs',name:'Blogs',icon:Rss},
     {route:'contact',name:'Contact',icon:Contact},
 
